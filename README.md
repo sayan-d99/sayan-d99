@@ -1,3 +1,6 @@
+# 💫 About Me:
+### Hi there 👋<br>* 👂 My name is Sayan Das<br>* 🔭 I’m currently working on a Video Transcoding Pipeline and a Personalized Chess Gameplay Analysis Platform<br>* 🌱 I’m currently learning Microservices and Distributed Systems<br>* 🤝 I’m looking to collaborate on interesting projects<br>* 📫 How to reach me: Socials below<br>* ❤️ I love Formula One, Chess, Jigsaw Puzzles, Cooking and ofcourse, Coding<br>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.salvaatore) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dassayan99) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sayand031999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sayand031999@gmail.com) 
